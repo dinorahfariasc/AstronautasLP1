@@ -35,7 +35,7 @@ O sistema permite a gestão de astronautas e voos espaciais, oferecendo as segui
 - Verifica se o voo está planejado e se o astronauta está disponível e vivo.
 - Remover Astronauta de um Voo:
 
-###Remove um astronauta de um voo específico.
+### Remove um astronauta de um voo específico.
 - Verifica se o voo está planejado e se o astronauta está a bordo.
 
 ### Lançar um Voo:
